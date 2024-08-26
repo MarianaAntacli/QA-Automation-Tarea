@@ -86,9 +86,8 @@ describe('Enviar mensaje', { testIsolation: false }, () => {
 
 
 
+// Reporte de bugs: trello: https://trello.com/invite/b/66be664e72491e01a4cd4795/ATTI0ef7ec41e58daa62fb561be8ca6a8875E88D46F9/qa-automation
 
-// bugs
-// subir a github
 
 
 
